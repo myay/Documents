@@ -2,4 +2,5 @@ Computer Architecture: A Quantitative Approach
 Computer Organization and Design
 Deep Learning (Ian Goodfellow, Yoshua Bengio, and Aaron Courville)
 Reinforcement Learning: An Introduction
+Nonlinear System Identification - From Classical Approaches to Neural Networks and Fuzzy Models
 The Elements of Statistical Learning: Data Mining, Inference, and Prediction
